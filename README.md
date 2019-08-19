@@ -1,2 +1,0 @@
-# AppsPrivacy
-Applications Privacy Policy
